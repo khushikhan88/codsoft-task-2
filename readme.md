@@ -1,5 +1,3 @@
-# 🎓 Student Mood Chatbot
-
 # 🎮 Tic-Tac-Toe AI
 
 A Python implementation of Tic-Tac-Toe where a human player competes against the computer.
